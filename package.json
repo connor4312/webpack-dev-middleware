@@ -1,5 +1,5 @@
 {
-  "name": "webpack-dev-middleware",
+  "name": "@mixer/webpack-dev-middleware",
   "version": "3.4.0",
   "description": "A development middleware for webpack",
   "main": "index.js",
